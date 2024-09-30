@@ -5,11 +5,6 @@ This repository contains an implementation of a binary sentiment classification 
 ## Table of Contents
 - [Dataset](#dataset)
 - [Requirements](#requirements)
-- [Code Overview](#code-overview)
-- [How to Run](#how-to-run)
-- [Results](#results)
-- [Performance Metrics](#performance-metrics)
-- [References](#references)
 
 ## Dataset
 
