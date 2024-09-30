@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/80f3b36f-aa1c-4072-ba47-bafae2e51e2a)# Sentiment Analysis Using Logistic Regression
+# Sentiment Analysis Using Logistic Regression
 
 This repository contains an implementation of a binary sentiment classification model using Logistic Regression. The model is trained to classify movie reviews as either positive or negative based on the Rotten Tomatoes dataset.
 
